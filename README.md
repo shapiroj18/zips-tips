@@ -3,6 +3,7 @@
 Basic FastAPI App that shows [Zips Tips](https://www.brown.edu/Athletics/Mens_Ultimate/ztips.html) - a collection of Ultimate Frisbee tips written by Josh Ziperstein.
 
 ### Deployment
+Deployed at `https://gyv1sc.deta.dev/`
 
 ### Runing on your machine locally
 1. `git clone https://github.com/shapiroj18/zips-tips.git`
