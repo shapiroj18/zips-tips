@@ -9,4 +9,8 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
 async def root():
-    return FileResponse("tips.html")
+    return FileResponse("./static/html/tips.html")
+
+@app.get("/random", response_class=HTMLResponse)
+async def random():
+    return FileResponse("./static/html/randomtips.html")
