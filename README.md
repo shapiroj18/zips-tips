@@ -3,9 +3,9 @@
 Basic FastAPI App that shows [Zips Tips](https://www.brown.edu/Athletics/Mens_Ultimate/ztips.html) - a collection of Ultimate Frisbee tips written by Josh Ziperstein.
 
 ### Deployment
-Deployed using [Deta](https://www.deta.sh/) at `https://gyv1sc.deta.dev/`. There are two endpoints:
-1. `https://gyv1sc.deta.dev/` shows all tips
-2. `https://gyv1sc.deta.dev/random` shows a random tip
+Deployed using [Deta](https://www.deta.sh/) at `https://t2xjpk.deta.dev/`. There are two endpoints:
+1. `https://t2xjpk.deta.dev/` shows all tips
+2. `https://t2xjpk.deta.dev/random` shows a random tip
 
 ### Runing on your machine locally
 1. `git clone https://github.com/shapiroj18/zips-tips.git`
