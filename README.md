@@ -7,6 +7,8 @@ Deployed using [Deta](https://www.deta.sh/) at `https://t2xjpk.deta.dev/`. There
 1. `https://t2xjpk.deta.dev/` shows all tips
 2. `https://t2xjpk.deta.dev/random` shows a random tip
 
+Deployment is updated with `deta deploy` when at the top of the repo.
+
 ### Runing on your machine locally
 1. `git clone https://github.com/shapiroj18/zips-tips.git`
 2. `cd zips-tips`
